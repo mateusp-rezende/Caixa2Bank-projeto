@@ -5,24 +5,25 @@
 
 Esse é nossa prova final do curso de Informatica para internet que fizemos no IF Goiano Campus Trindade
 o projeto se trata de Um CRUD similar a um banco convencional em que se pode enviar e receber dinheiro, editar, excluir e adicionar usuarios
-
+# Como funciona
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/_Fluxograma%20-%20%20Fluxograma.png) 
 ## Layout da pagina principal
-![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame1.jpg) 
-![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame2.jpg)
+![](https://github.com/mateusp-rezende/assets/blob/main/frame1.jpg) 
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame2.jpg)
 ![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame3.jpg) 
 ## Layout da pagina de login 
-![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame4.jpg)
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame4.jpg)
 ## Layout da pagina de cadastro
-![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame10.jpg)
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame10.jpg)
 ## Layout da area de funções
 ![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame5.jpg) 
 ## pagina do extrato bancario e pdf gerado pelo sistema
-![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame6.jpg)
-![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/framepdf.jpg)
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame6.jpg)
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/framepdf.jpg)
 ## pagina para ativação e consulta dos dados de transferência
 ![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame7.jpg) 
 ## pagina para alteração de dados
-![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame8.jpg)
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame8.jpg)
 
 ## Modelo conceitual
 ![Modelo Conceitual]()
