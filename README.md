@@ -25,9 +25,6 @@ o projeto se trata de Um CRUD similar a um banco convencional em que se pode env
 ## pagina para alteração de dados
 ![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame8.jpg)
 
-## Modelo conceitual
-![Modelo Conceitual]()
-
 # Tecnologias utilizadas
 ## Back end
 - Java
