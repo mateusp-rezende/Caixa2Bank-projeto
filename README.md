@@ -3,47 +3,47 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
-
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
+Esse é nossa prova final do curso de Informatica para internet que fizemos no IF Goiano Campus Trindade
 o projeto se trata de Um CRUD similar a um banco convencional em que se pode enviar e receber dinheiro, editar, excluir e adicionar usuarios
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+## Layout da pagina principal
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame1.jpg) 
+![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame2.jpg)
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame3.jpg) 
+## Layout da pagina de login 
+![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame4.jpg)
+## Layout da pagina de cadastro
+![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame10.jpg)
+## Layout da area de funções
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame5.jpg) 
+## pagina do extrato bancario e pdf gerado pelo sistema
+![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame6.jpg)
+![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/framepdf.jpg)
+## pagina para ativação e consulta dos dados de transferência
+![Mobile 1](https://github.com/mateusp-rezende/assets/blob/main/frame7.jpg) 
+## pagina para alteração de dados
+![Mobile 2](https://github.com/mateusp-rezende/assets/blob/main/frame8.jpg)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+![Modelo Conceitual]()
 
 # Tecnologias utilizadas
 ## Back end
 - Java
 - Spring Boot
-- JPA / Hibernate
+- Spring security
+-  Spring Mail
+-  Thymeleaf
+-  Lombok
+- Jquery
+- PostgresSQL
+- Data jpa
 - Maven
+- Libre pdf
+  
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS / Bootstrap
+# Autores
+### Mateus de Paula Rezende,Victor Manoel Silva Nascimento e Arthur Rodrigues Martins.
 
-## Implantação em produção
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-
-
-## Front end web
-
-
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
 
